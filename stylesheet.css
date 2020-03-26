@@ -1,0 +1,204 @@
+* {
+  tamaño de la caja: border-box;
+}
+
+cuerpo {
+  margen: 0;
+  Familia tipográfica: "Lucida Grande";
+}
+
+un {
+  decoración de texto: ninguno;
+}
+
+.claro {
+  claro: izquierda;
+}
+
+.envase {
+  ancho máximo: 1170px;
+  relleno: 0 15px;
+  margen: 0 automático;
+}
+
+.top-wrapper {
+  relleno: 180px 0 100px 0;
+  imagen de fondo: url (https://prog-8.com/images/html/advanced/top_en.png);
+  tamaño de fondo: cubierta;
+  color blanco;
+  alinear texto: centro;
+}
+
+.top-wrapper h1 {
+  opacidad: 0.7;
+  tamaño de fuente: 45 px;
+  espacio entre letras: 5px;
+  margen inferior: 10px;
+}
+
+.top-wrapper p {
+  opacidad: 0.7;
+  margen inferior: 3px;
+}
+
+.btn-wrapper {
+  alinear texto: centro;
+  margen: 20px 0;
+}
+
+.btn-wrapper p {
+  margen: 10px 0;
+}
+
+.Regístrate {
+  color de fondo: # 239b76;
+}
+
+.Facebook {
+  color de fondo: # 3b5998;
+  margen derecho: 10px;
+}
+
+.twitter {
+  color de fondo: # 55acee;
+}
+
+.btn {
+  acolchado: 12px 24px;
+  color blanco;
+  pantalla: bloque en línea;
+  opacidad: 0.8;
+  radio de borde: 4px;
+  alinear texto: centro;
+}
+
+.btn: hover {
+  opacidad: 1;
+}
+
+.fa {
+  margen derecho: 5px;
+}
+
+encabezado {
+  altura: 65 px;
+  ancho: 100%;
+  color de fondo: rgba (34, 49, 52, 0.9);
+  posición: fija;
+  arriba: 0;
+  índice z: 10;
+}
+
+.logo {
+  ancho: 124px;
+  margen superior: 20 px;
+}
+
+.header-left {
+  flotador izquierdo;
+}
+
+.header-right {
+  flotar derecho;
+  margen derecho: -25px;
+}
+
+.header-right a {
+  altura de línea: 65 px;
+  relleno: 0 25px;
+  color blanco;
+  bloqueo de pantalla;
+  flotador izquierdo;
+  transición: todos los 0.5s;
+}
+
+.header-right a: hover {
+  color de fondo: rgba (255, 255, 255, 0.3);
+}
+
+.menu-icon {
+  color blanco;
+  flotar derecho;
+  tamaño de fuente: 25px;
+  relleno: 21px 0;
+  pantalla: ninguno;
+}
+
+.lesson-wrapper {
+  fondo acolchado: 80px;
+  relleno-izquierda: 5%;
+  derecho de relleno: 5%;
+  color de fondo: # f7f7f7;
+  alinear texto: centro;
+}
+
+.Bóveda {
+  relleno superior: 80px;
+  relleno inferior: 50px;
+  color: # 5f5d60;
+}
+
+.heading h2 {
+  peso de fuente: normal;
+}
+
+.lesson {
+  flotador izquierdo;
+  ancho: 25%;
+}
+
+.lesson-icon {
+  posición: relativa;
+}
+
+.lesson-icon p {
+  posición: absoluta;
+  arriba: 44%;
+  ancho: 100%;
+  color blanco;
+}
+
+.text-contenidos {
+  ancho: 80%;
+  pantalla: bloque en línea;
+  margen superior: 15px;
+  tamaño de fuente: 15px;
+  color: # b3aeb5;
+}
+
+.heading h3 {
+  peso de fuente: normal;
+}
+
+.message-wrapper {
+  borde inferior: 1px sólido #eee;
+  fondo acolchado: 80px;
+  alinear texto: centro;
+}
+
+.message {
+  acolchado: 15px 40px;
+  color de fondo: # 5dca88;
+  cursor: puntero;
+  box-shadow: 0 7px # 1a7940;
+}
+
+.message: activo {
+  posición: relativa;
+  arriba: 7px;
+  cuadro-sombra: ninguno;
+}
+
+pie de página img {
+  ancho: 125px;
+}
+
+pie de página p {
+  color: # b3aeb5;
+  tamaño de fuente: 12px;
+}
+
+pie de página {
+  relleno superior: 30px;
+  relleno inferior: 20px;
+}
